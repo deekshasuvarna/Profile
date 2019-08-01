@@ -1,0 +1,28 @@
+body{
+    width: 80%;
+    margin: auto;
+}
+#pname{
+    text-align: center;
+}
+hr{
+    height:2px;
+    background: blue;
+}
+h3{
+    width: 100%;
+    background-color: grey;
+    border-collapse: collapse;
+}
+table{
+    width: 80%;
+   border-collapse: collapse;
+   margin:auto;
+}
+table th{
+    background-color: green;
+    color: antiquewhite;
+}
+table th,td{
+    border-bottom:1px solid gray;
+}
